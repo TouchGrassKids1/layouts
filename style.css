@@ -41,4 +41,5 @@ background-color:yellow;
     background-color: pink;
     order:3;
     flex:1;
+    align-item:stretch;
 }
